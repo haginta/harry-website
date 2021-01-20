@@ -12,5 +12,5 @@ active: true
 author: admin
 design:
   background:
-    image: harry.jpg
+    image: ""
 ---
