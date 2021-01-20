@@ -1,7 +1,7 @@
 ---
 title: Harry Aginta
 role: PhD Student
-avatar_filename: harry.jpg
+avatar_filename: ""
 bio: " My research interests include macroeconomics, regional and spatial
   analysis, and applied econometrics.."
 interests: []
