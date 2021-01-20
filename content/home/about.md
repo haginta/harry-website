@@ -1,21 +1,16 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Harry Aginta is an economist at Bank Indonesia, the central bank of
+  Republic of Indonesia. He is now pursuing a PhD degree at the Graduate School
+  of International Development, Nagoya University, Japan. His research interests
+  include macroeconomics, regional and spatial analysis, and applied
+  econometrics.
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
+design:
+  background:
+    image: harry.jpg
 ---
