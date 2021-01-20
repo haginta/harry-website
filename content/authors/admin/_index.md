@@ -23,6 +23,8 @@ organizations:
     url: http://en.nagoya-u.ac.jp/
 education:
   courses:
+    - course: PhD in International Development
+      institution: Nagoya University
     - course: MA in Economics
       institution: International University of Japan
       year: ""
